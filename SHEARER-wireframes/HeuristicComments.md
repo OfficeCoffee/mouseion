@@ -19,3 +19,4 @@ DeletePopUp:
 
 	Heuristic 5: Error Prevention
 	 - This pop up prevents the user from accidentally deleting a word (destructive action).
+	 - Revision, previous version lacked this feature. Deletion is a destructive action requiring an extra layer of error prevention.
