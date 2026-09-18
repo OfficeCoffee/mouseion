@@ -1,10 +1,10 @@
 **Team name:** ReverseOsmosis
 
-**Application Name:** Custom word organizer
+**Application Name:** Mousion (Custom word organizer)
 
-**Vision:** To create a place where people can organize and practice using new words.
+**Vision:** To create a place where people can organize interesting words.
 
-**Mission:** To create an organizer that can capture unique words and their associated context while providing a way to consistently practice said words.
+**Mission:** To create an organizer that can capture unique words and their associated context.
 
 **Core User:** Logofile
 
