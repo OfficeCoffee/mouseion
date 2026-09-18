@@ -43,3 +43,12 @@
 - **Create:** User will click the Add widget and a new screen to add a word will appear
 - **Edit:** User will click the edit button to change the word or definition/context
 - **Homepage / dashboard:** User will enter page when opening application
+
+# Links
+
+[Brandguide](https://github.com/OfficeCoffee/mouseion/blob/group-UI-UX-consolidation/docs/official_brandguide.png)
+
+[Userflow](https://github.com/OfficeCoffee/mouseion/blob/group-UI-UX-consolidation/docs/official_userflow.png)
+
+[Wireframe consolidation](https://github.com/OfficeCoffee/mouseion/blob/group-UI-UX-consolidation/docs/official_wireframe_consolidation.png)
+
